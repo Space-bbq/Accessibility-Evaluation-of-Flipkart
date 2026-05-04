@@ -33,7 +33,7 @@ To identify accessibility issues affecting users with disabilities and suggest i
 
 ## 📷 Screenshots
 ### Img. 1.0 Missing alt text for images_ unclear labels
-![Score](Img. 1.0 Missing alt text for images_ unclear labels.png)
+![Score](Img.1.0_Missing_alt_text_for_images_unclear_labels.png)
 
 ### Issues Identified
 ![Issues](screenshots/issues-list.png)
