@@ -35,10 +35,16 @@ To identify accessibility issues affecting users with disabilities and suggest i
 ### Img. 1.0 Missing alt text for images_ unclear labels
 ![Score](Img.1.0_Missing_alt_text_for_images_unclear_labels.png)
 
-### Issues Identified
-![Issues](screenshots/issues-list.png)
+### Img. 1.1 Zoom disabled
+![Issues](Img.1.1_Zoom_disabled.png)
 
-### NVDA Issues
+### Img. 1.2 Low color contrast
+![Issues](screenshots/nvda-issue.png)
+
+### Img. 1.3 Search bar not properly detected by screen reader
+![NVDA](screenshots/nvda-issue.png)
+
+### Img. 1.4 Interactive icons not accessible by screen reader
 ![NVDA](screenshots/nvda-issue.png)
 
 ## 📄 Reports
