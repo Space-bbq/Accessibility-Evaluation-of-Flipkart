@@ -39,7 +39,7 @@ To identify accessibility issues affecting users with disabilities and suggest i
 ![Issues](Img.1.1_Zoom_disabled.png)
 
 ### Img. 1.2 Low color contrast
-![Issues](screenshots/nvda-issue.png)
+![Issues](Img.1.2_Low_color_contrast.png)
 
 ### Img. 1.3 Search bar not properly detected by screen reader
 ![NVDA](screenshots/nvda-issue.png)
