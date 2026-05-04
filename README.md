@@ -45,7 +45,7 @@ To identify accessibility issues affecting users with disabilities and suggest i
 ![NVDA](Img.1.3_Search_bar_not_properly_detected_by_screen_reader.png)
 
 ### Img. 1.4 Interactive icons not accessible by screen reader
-![NVDA](screenshots/nvda-issue.png)
+![NVDA](Img.1.4_Interactive_icons_not_accessible_by_screen_reader.png)
 
 ## 📄 Reports
 - Detailed report available in `/reports`
