@@ -48,7 +48,7 @@ To identify accessibility issues affecting users with disabilities and suggest i
 ![NVDA](Img.1.4_Interactive_icons_not_accessible_by_screen_reader.png)
 
 ## 📄 Reports
-- Detailed report available in `/reports`
+- Detailed report available in `Accessibility Evaluation of Flipkart.pdf`
 
 ## 💡 Conclusion
 This project demonstrates the importance of accessibility testing using both automated tools and assistive technologies to ensure inclusive user experience.
