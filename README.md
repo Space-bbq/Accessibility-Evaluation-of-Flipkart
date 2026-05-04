@@ -32,8 +32,8 @@ To identify accessibility issues affecting users with disabilities and suggest i
 - Lighthouse Score: 66/100
 
 ## 📷 Screenshots
-### Lighthouse Score
-![Score](screenshots/lighthouse-score.png)
+### Img. 1.0 Missing alt text for images_ unclear labels
+![Score](Img. 1.0 Missing alt text for images_ unclear labels.png)
 
 ### Issues Identified
 ![Issues](screenshots/issues-list.png)
